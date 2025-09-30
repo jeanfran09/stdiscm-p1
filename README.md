@@ -1,2 +1,2 @@
-# stdiscm-p1
-P1 - Threaded Prime Number Search
+# P1 - Threaded Prime Number Search
+
